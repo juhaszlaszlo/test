@@ -1,4 +1,4 @@
 function readIt
 {
-  alert("Hello Git");
+  alert("Hello Git - Second branch");
 }
